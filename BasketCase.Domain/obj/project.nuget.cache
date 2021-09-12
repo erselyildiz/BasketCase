@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "rXTm3PsTGOoX0qH9wvolIbroew4qz6yOGAU+JfCMxWomNJXvUjb79B6gmISWSGr3o2toV6fT/a8QnZFlY/dQgw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ersel\\source\\repos\\BasketCase\\BasketCase.Domain\\BasketCase.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ersel\\.nuget\\packages\\mongodb.bson\\2.13.1\\mongodb.bson.2.13.1.nupkg.sha512",
+    "C:\\Users\\ersel\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

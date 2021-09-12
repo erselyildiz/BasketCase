@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  basketcase.api:
+    image: ${DOCKER_REGISTRY-}basketcaseapi
+    build:
+      context: .
+      dockerfile: BasketCase.Api\Dockerfile

@@ -1,0 +1,11 @@
+C:\Users\ersel\source\repos\BasketCase\BasketCase.Domain\bin\Debug\net5.0\BasketCase.Domain.deps.json
+C:\Users\ersel\source\repos\BasketCase\BasketCase.Domain\bin\Debug\net5.0\BasketCase.Domain.dll
+C:\Users\ersel\source\repos\BasketCase\BasketCase.Domain\bin\Debug\net5.0\ref\BasketCase.Domain.dll
+C:\Users\ersel\source\repos\BasketCase\BasketCase.Domain\bin\Debug\net5.0\BasketCase.Domain.pdb
+C:\Users\ersel\source\repos\BasketCase\BasketCase.Domain\obj\Debug\net5.0\BasketCase.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ersel\source\repos\BasketCase\BasketCase.Domain\obj\Debug\net5.0\BasketCase.Domain.AssemblyInfoInputs.cache
+C:\Users\ersel\source\repos\BasketCase\BasketCase.Domain\obj\Debug\net5.0\BasketCase.Domain.AssemblyInfo.cs
+C:\Users\ersel\source\repos\BasketCase\BasketCase.Domain\obj\Debug\net5.0\BasketCase.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ersel\source\repos\BasketCase\BasketCase.Domain\obj\Debug\net5.0\BasketCase.Domain.dll
+C:\Users\ersel\source\repos\BasketCase\BasketCase.Domain\obj\Debug\net5.0\ref\BasketCase.Domain.dll
+C:\Users\ersel\source\repos\BasketCase\BasketCase.Domain\obj\Debug\net5.0\BasketCase.Domain.pdb
